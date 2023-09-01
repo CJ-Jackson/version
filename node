@@ -1,0 +1,3 @@
+#!/bin/dash
+v=${NODE_VER-node} . path-node               
+$(basename $0) $@

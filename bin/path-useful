@@ -1,0 +1,2 @@
+#!/bin/dash
+export PATH="$HOME/UsefulBin/$v/bin:$PATH"

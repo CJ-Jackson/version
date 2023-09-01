@@ -1,0 +1,2 @@
+#!/bin/dash
+export PATH="$HOME/.usr/sdk/${v-node}/bin:$PATH"
