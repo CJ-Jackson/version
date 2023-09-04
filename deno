@@ -1,3 +1,3 @@
 #!/bin/dash
 v=${DENO_VER-deno} . path-deno
-deno $@
+deno "$@"
